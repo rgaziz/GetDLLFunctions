@@ -1,15 +1,15 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
 <BorlandProject>
 	<Transactions>
-    <Transaction>1899.12.30 00:00:00.000.176,=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Main.cpp=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.038,C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\TEST.cbproj=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Project1.cbproj</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.018,E:\Projects\MAIN\TEST\Unit1.cpp=E:\Projects\MAIN\TEST\clFunctions.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.919,=E:\Projects\MAIN\TEST\Unit1.cpp</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.183,E:\Projects\MAIN\TEST\TEST.cbproj=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\TEST.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.095,C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\File1.cpp=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.183,C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\TEST.cbproj=E:\Projects\MAIN\TEST\TEST.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.224,C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Main.cpp=E:\Projects\MAIN\TEST\Main.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,E:\Projects\MAIN\TEST\clFunctions.h=E:\Projects\MAIN\TEST\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.018,E:\Projects\MAIN\TEST\clFunctions.cpp=E:\Projects\MAIN\TEST\Unit1.cpp</Transaction>
     <Transaction>1899.12.30 00:00:00.000.546,=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Project1PCH1.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.018,E:\Projects\MAIN\TEST\Unit1.h=E:\Projects\MAIN\TEST\clFunctions.h</Transaction>
-    <Transaction>1899.12.30 00:00:00.000.224,E:\Projects\MAIN\TEST\Main.cpp=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Main.cpp</Transaction>
-    <Transaction>2018.08.07 18:11:46.890,E:\Projects\MAIN\TEST\GetFunctions.cbproj=E:\Projects\MAIN\TEST\TEST.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.890,E:\Projects\MAIN\TEST\TEST.cbproj=E:\Projects\MAIN\TEST\GetFunctions.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.176,=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\File1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.038,C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\Project1.cbproj=C:\Users\Razhapov\Documents\Embarcadero\Studio\Projects\TEST.cbproj</Transaction>
   </Transactions>
 </BorlandProject>
